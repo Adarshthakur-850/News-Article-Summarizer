@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # News Article Summarizer
 
 AI-powered text summarization using Transformer models (BART).
@@ -36,3 +37,7 @@ POST `/summarize`
     "text": "Your long article text here..."
 }
 ```
+=======
+# News-Article-Summarizer
+ml project
+>>>>>>> ecd8e52d4a4b2ee84e914a3dd9c591b521cec49c
